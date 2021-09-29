@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+* UK
+  * London
+  * Manchester
+* China
+* HK
+
+
+- UK
+  - London
+  - Man
+- China
+- HK
